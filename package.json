@@ -1,6 +1,7 @@
 {
   "name": "notebook",
   "version": "1.0.0",
+  "homepage": "https://lenhuthuc.github.io/NoteBook",
   "description": "",
   "main": "postcss.config.js",
   "type": "module",
